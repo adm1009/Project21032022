@@ -1,0 +1,22 @@
+.heading{
+    display: inline-block;
+    margin-left: 90px;
+    color:aliceblue;
+}
+.navback{
+    background-color: cornflowerblue;
+}
+.buttons{
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    
+}
+.nestedall{
+   background-color: cornflowerblue;
+   color: white;
+   text-decoration: none;
+   width: "200px";
+}
